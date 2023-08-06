@@ -4,7 +4,6 @@ import com.consumerproducer.constants.Constants;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.kafka.annotation.KafkaListener;
-import org.springframework.kafka.annotation.KafkaListeners;
 import org.springframework.stereotype.Service;
 
 @Service
